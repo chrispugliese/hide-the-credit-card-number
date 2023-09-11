@@ -6,6 +6,7 @@ Write a function in Python that accepts a credit card number. It should return a
 THIS PROJECT IS FROM CODEACADEMY
 https://www.codecademy.com/resources/blog/python-code-challenges-for-beginners/
 
-# needs user input
-# user input can only be 16 integers long
-# user input can only be integers
+needs user input
+user input can only be 16 integers long
+user input can only be integers
+need to use len() function
